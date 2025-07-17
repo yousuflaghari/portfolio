@@ -11,6 +11,7 @@ import {
   Github,
   Linkedin,
   Twitter,
+  Phone,
 } from "lucide-react";
 import ProfilePic from "../assets/profile-pic.jpg";
 
@@ -47,7 +48,15 @@ export default function Sidebar() {
               className="w-24 h-24 mx-auto rounded-full object-cover mb-4"
             />
             <h2 className="text-xl font-bold">Muhammad Yousuf</h2>
-            <p className="text-gray-600">Frontend Developer</p>
+            <p className="text-gray-600">React Developer</p>
+            <div className="flex items-center justify-center text-gray-600 text-sm mt-2">
+              <Phone size={16} className="mr-2" />
+              <span>+92-341-4921122</span>
+            </div>
+            <div className="flex items-center justify-center text-gray-600 text-sm mt-1">
+              <Mail size={16} className="mr-2" />
+              <span>yousuflaghari786@gmail.com</span>
+            </div>
           </div>
 
           <nav className="flex-1 px-4">

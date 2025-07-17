@@ -32,6 +32,81 @@ const projects = [
     demoUrl: "https://tasktrek-becodewala.vercel.app",
     githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
   },
+  {
+    title: "Pizzashop",
+    description:
+      "A modern, feature-rich application designed to help users plan, organize, and visualize project milestones effectively, combining accessibility, intuitive design, and exportable roadmaps.",
+    image: task,
+    technologies: [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "html2pdf",
+      "Tailwind CSS",
+    ],
+    demoUrl: "https://tasktrek-becodewala.vercel.app",
+    githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
+  },
+  {
+    title: "Pizzashop",
+    description:
+      "A modern, feature-rich application designed to help users plan, organize, and visualize project milestones effectively, combining accessibility, intuitive design, and exportable roadmaps.",
+    image: task,
+    technologies: [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "html2pdf",
+      "Tailwind CSS",
+    ],
+    demoUrl: "https://tasktrek-becodewala.vercel.app",
+    githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
+  },
+  {
+    title: "Pizzashop",
+    description:
+      "A modern, feature-rich application designed to help users plan, organize, and visualize project milestones effectively, combining accessibility, intuitive design, and exportable roadmaps.",
+    image: task,
+    technologies: [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "html2pdf",
+      "Tailwind CSS",
+    ],
+    demoUrl: "https://tasktrek-becodewala.vercel.app",
+    githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
+  },
+  {
+    title: "Pizzashop",
+    description:
+      "A modern, feature-rich application designed to help users plan, organize, and visualize project milestones effectively, combining accessibility, intuitive design, and exportable roadmaps.",
+    image: task,
+    technologies: [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "html2pdf",
+      "Tailwind CSS",
+    ],
+    demoUrl: "https://tasktrek-becodewala.vercel.app",
+    githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
+  },
+  {
+    title: "Pizzashop",
+    description:
+      "A modern, feature-rich application designed to help users plan, organize, and visualize project milestones effectively, combining accessibility, intuitive design, and exportable roadmaps.",
+    image: task,
+    technologies: [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "html2pdf",
+      "Tailwind CSS",
+    ],
+    demoUrl: "https://tasktrek-becodewala.vercel.app",
+    githubUrl: "https://github.com/becodewala-youtube/TaskTrek",
+  },
 ];
 
 export default function Projects() {

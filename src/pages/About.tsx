@@ -51,7 +51,7 @@ export default function About() {
               <li>
                 <h4 className="font-semibold">Full Stack Developer</h4>
                 <p className="text-gray-600">INVEXTECH</p>
-                <p className="text-gray-500">Sept-2023 to Nov-2024</p>
+                <p className="text-gray-500">Sept-2024 to Sept-2025</p>
               </li>
               <li>
                 {/*  <h4 className="font-semibold">Frontend Developer</h4>
